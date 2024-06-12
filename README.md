@@ -38,7 +38,7 @@ Student
  - [@batuhandavuts](https://github.com/batuhandavuts) -221216026
    
 Supervisor
- - [@keyvanarasteh](https://github.com/keyvanarasteh)
+ - [@Sena KAÇAR]()
 
 ###
 
